@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964434243455",
+    "project_id": "running-project-2540d",
+    "storage_bucket": "running-project-2540d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964434243455:android:49e0ee02384c422fcbb44a",
+        "android_client_info": {
+          "package_name": "com.shreyanshi.run_tracker_native_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964434243455-gc7dt4gjukck0h6btqtb57okn44d5aul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreyanshi.run_tracker_native_app",
+            "certificate_hash": "1230e442bf9a8ceb9bf122397e6dcea23b74453d"
+          }
+        },
+        {
+          "client_id": "964434243455-jgftej3k6dumqdgm1001vaqn7ldhr4l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkBs0cSPT5GQxQ2GTmZzuk7TGLrLXV7vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964434243455-jgftej3k6dumqdgm1001vaqn7ldhr4l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
